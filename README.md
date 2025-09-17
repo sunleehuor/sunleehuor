@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🚀 My Frontend Engineering Portfolio
 
-<!--
-**sunleehuor/sunleehuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Showcasing my work in building modern web applications with **Next.js**, **React**, and **TypeScript**.
 
-Here are some ideas to get you started:
+## 🛠️ Key Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks**: Next.js, React, Vite
+- **Languages**: TypeScript, JavaScript
+- **Styling**: Tailwind CSS
+- **Tools**: Git, GitHub, Jest
+
+## 📂 Projects
+
+- **[Project A](https://github.com/your-username/project-a)**: A brief one-line description of the project.
+- **[Project B](https://github.com/your-username/project-b)**: A brief one-line description of the project.
+- **[Project C](https://github.com/your-username/project-c)**: A brief one-line description of the project.
+
+## 🔗 Live Demo
+
+- **View my portfolio live**: [https://your-portfolio-url.com](https://your-portfolio-url.com)
+
+## ✍️ Contact
+
+- **Email**: your.email@example.com
+- **LinkedIn**: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/your-profile/)
